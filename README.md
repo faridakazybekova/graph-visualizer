@@ -1,1 +1,3 @@
-# graph-visualizer
+streamlit
+networkx
+matplotlib
